@@ -9,10 +9,6 @@ Performing an analysis using school and student data to inform a school district
 
 When assessing average scores and passing percentages among the 15 high schools in the school district, the average math score dropped .1, the average reading score stayed the same, the percentage passing math dropped 1%, the percentage passing reading dropped 1%, and the overall passing percent dropped 1%.
 
-
-### School Summary
-
-
 ### Top Five Performing Schools
 
 
