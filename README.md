@@ -65,7 +65,19 @@ When reviewing the School Size summary, removing the ninth grade scores did not 
 
 
 ### School Type Summary
+```
+# Assemble into DataFrame.
+type_summary_df = pd.DataFrame({
+          "Average Math Score" : type_math_scores,
+          "Average Reading Score": type_reading_scores,
+          "% Passing Math": type_passing_math,
+          "% Passing Reading": type_passing_reading,
+          "% Overall Passing": type_overall_passing})
 
+type_summary_df
+```
+
+![School Type](https://user-images.githubusercontent.com/104540261/180788568-ca714da3-9b7e-4120-9f88-29753f8e3df1.png)
 
 In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
 
