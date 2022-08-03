@@ -79,5 +79,5 @@ type_summary_df
 
 ![School Type](https://user-images.githubusercontent.com/104540261/180788568-ca714da3-9b7e-4120-9f88-29753f8e3df1.png)
 
-In reviewing the last summary on School Types, this data change also affected the passing percentages that compared charter and district schools. Fortunately, it did not affect the average scores for these two school types. Removing the scores resulted in a reduction in charter school's passing percentages. Before the data change, charter schools had very high passing percentages: 94% passing math, 97% passing reading, 90% overall passing. After the data change, charter schools now have a 90% passing math, 93% passing reading, 87% overall passing. On the plus side, these rates are still far superior when compared to district schools.
+Lastly, when we look at the summary of school types, we can see that the correction to the nineth grade data affected passing percentages of charter schools and district schools. For both charter schools and district the average scores remained unaffected. In the charter schools the percentage of passing math dropped from 94% to 90%. In the percentage of passing reading ,in charter schools, the percentage dropped from 97% to 93%. Also in charter schools the overall passing percentage dropped from 90% to 87%. All in all the charter schools still out performed the district schools.
 
