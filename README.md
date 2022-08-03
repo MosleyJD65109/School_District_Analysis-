@@ -36,7 +36,7 @@ When evaluating passing percentages and average scores among the 15 high schools
 
 ![Bottom 5 Schools](https://user-images.githubusercontent.com/104540261/180646123-b9df296b-6eb2-4b0e-8a0e-d77503bac9b6.png)
 
-When assessing school summaries and performing schools, the score replacements did affect the ranking of the top five performing schools. Thomas High School ranked second place in the top five performing schools with a 91% overall passing. After replacing both math and reading scores, Thomas High School was taken out of the top five category since they now display a 65% overall passing. On the plus side, these changes did not place Thomas High School among the bottom five performing schools. Those ranks remained the same. Per the revised School Summary, Thomas High School now ranks 8th place among 15 high schools in the district.
+The assessment of the school summaries and all of the schools performance revealed that replacing the scores of the top five performing schools did not significantly affect their rankings. The second placed ranked school was Thomas High School. Thomas High School ranked second with a 91% overall passing score. When the math and reading scores were replaced the overall passing percentage dropped to 65%. This took them out of the top five performing school rankings. This was not a drastic enough change to place Thomas High School in the bottom five performing schools but it did lower their rank to 8th place.
 
 
 ### Average Math Scores by Grade & School
@@ -47,14 +47,14 @@ When assessing school summaries and performing schools, the score replacements d
 
 ![Average Reading Scores](https://user-images.githubusercontent.com/104540261/180646155-6e5f64ee-666e-4faa-aacf-831cf9fa3306.png)
 
-Another plus side from this data replacement is that it did not change the math and reading scores by grade. Granted, both the average math and reading score summaries were stratisfied by school and grade level. As shown above, the summary tables display "NaN" for ninth grade at Thomas High School whereas the remaining data remained intact.
+Because the average reading and math scores were organized by grade level and school the data replacement did not drastically change the letter grades. In the summary table we can see "NaN" inserted into the Thomas High School ninth grade cells where as all the other remaining cells and tha data within remained unaffected.
 
 
 ### School Spending Summary
 
 ![School Spending](https://user-images.githubusercontent.com/104540261/180646160-a0eb4d3b-796e-4410-8e55-d8361fbb3d53.png)
 
-When reviewing the School Spending summary, this data change did not impact the spending ranges for either the average math scores or average reading scores. However, this data change did impact the spending ranges for passing percentages. According to the summary above, there was a 6% decrease in % passing math, a 7% decrease in % passing reading, and a 6% decrease in % overall passing in the $630-644 spending range.
+The school spending summary shows us that where these changes were the most evident was in the $639-$644 spending range. In the $630-644 spending range we see a 6% drop in % passing math, a 7% drop in % passing reading, and a 6% drop in % overall passing. It is not evident that the change in data affected the spending ranges for average reading scores or average math scores.
 
 
 ### School Size Summary
