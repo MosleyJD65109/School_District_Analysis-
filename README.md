@@ -1,6 +1,7 @@
 # School_District_Analysis
 ## Overview of the school district analysis:
-The purpose of this analysis was to inform a school district on their budget and priorities based of the results of an evaluation of school and student data. The school district discovered that the standardized test scores for ninth grade students at Thomas High School were incorrect, and they requested for updated data summaries. After further discussion, it was best to only replace the ninth grade math and reading scores at Thomas High School while keeping all other data associated with this student group intact. Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not alter data summaries tremendously overall.
+The goal of this analysis was to let the school district know their budget and priorities based of the results of an evaluation of school and student data. This analysis lead to the school district discovering that the Thomas High School nith grade students standardized test scores were incorrect, and they requested for updated data summaries. Because of this, it was best to only replace the ninth grade math and reading scores at Thomas High School while keeping all other data associated with this student group intact. Both math and reading scores were replaced with "NaN", which represents a "Not-a-Number" value, for 461 student records. Although this may seem like a significant number, these score replacements did not result in any drastic change of the overall scores.
+
 
 
 ## Results:
